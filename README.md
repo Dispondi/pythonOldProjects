@@ -1,1 +1,1 @@
-I've just found my old python small project and decided to publish them :)
+I've just found my old small python projects and decided to publish them :)
